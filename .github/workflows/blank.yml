@@ -46,18 +46,9 @@ empregos :
        executar : eco Olá, mundo!
 
      # Executa um conjunto de comandos usando o shell do runner
-
      - nome : Executa um script multi-linha
-
        correr : |
-
          echo Adicionar outras ações para construir,
-
          teste de eco e implante seu projeto.
 
-Finalizamos mais uma unidade 😉
-
-Espero que tenham absorvidos todos esses aprendizados e colocado a mão na massa testando as ferramentas indicadas.
-
-#FocoNosMétodosÁgeis
 
